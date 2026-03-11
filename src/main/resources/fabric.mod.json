@@ -11,7 +11,7 @@
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/EnerWorks/Enerionn_Horizions_Mod"
 	},
-	"license": "MIT,
+	"license": "MIT",
 	"icon": "assets/enerionn_horizons/icon.png",
 	"environment": "*",
 	"entrypoints": {
